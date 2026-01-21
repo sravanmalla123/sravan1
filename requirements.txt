@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+langchain
+langchain-core
+langchain-community
+langchain-google-genai
+duckduckgo-search
+faiss-cpu
+numexpr
+python-dotenv
+ddgs
+#search tool
+wikipedia
+arxiv
